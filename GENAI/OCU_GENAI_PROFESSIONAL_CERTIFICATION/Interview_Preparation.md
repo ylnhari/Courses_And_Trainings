@@ -1,3 +1,9 @@
+## LLM Architectures vs no of Parameters
+![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/cf871379-bae0-4bec-b89f-89c99eea00b8)
+
+## Tasks that are typically performed with the models of each architecture style
+![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/799a11c0-3784-42eb-8621-561a2c1d5eb2)
+
 ## Customizing LLM's
 ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/f5f531c3-9527-4cc7-aa2c-58b1d08eef7b)
 
@@ -9,4 +15,6 @@
 
 ## LLM Inference Serving with minimal overhead
 ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/8ed28d6c-44f5-42a5-8c3a-85565f3ee236)
+
+
  
