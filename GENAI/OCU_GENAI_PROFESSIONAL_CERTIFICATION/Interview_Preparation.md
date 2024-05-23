@@ -16,5 +16,11 @@
 ## LLM Inference Serving with minimal overhead
 ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/8ed28d6c-44f5-42a5-8c3a-85565f3ee236)
 
+## LLM vs LLM + RAG
+![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/568c9d8b-96f7-41e1-9331-da075f6a2805)
+
+## Advantages of Vector Databases over traditional databases
+![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/39a4793f-0e11-4f2a-b53c-9db4b468d115)
+
 
  
