@@ -22,5 +22,12 @@
 ## Advantages of Vector Databases over traditional databases
 ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/39a4793f-0e11-4f2a-b53c-9db4b468d115)
 
+# Chatbot architecture
+![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/b9256a39-c65d-4ad5-afb5-2397a8a1a4d5)
+
+# LLM Chatbot with RAG architecture
+![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/6be26ee9-d434-4d04-9eec-87273c892e73)
+
+
 
  
