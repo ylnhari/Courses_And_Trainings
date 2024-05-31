@@ -19,9 +19,21 @@
   - Model evaluation consists of a person or a group of people evaluating or assessing the model, with respect to some business-relevant metric like AUC, area under the curve, or cost weighted error.
   - If the model meets their criteria, it is moved from the assessment phase to development.For example, in the development phase, you may want to modify hyperparameter values to increase the model's performance, which correlates to improvements in evaluation results.
   - After development, the model is then ready for a live experiment or real-world test of the model.
-  ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/b7bbde95-ecf4-4f0d-9530-0449a051a6a7)
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/b7bbde95-ecf4-4f0d-9530-0449a051a6a7)
 ## Model Validation
   - In contrast to the model evaluation component, which is performed by humans, the model validation component evaluates the model against fixed thresholds and alerts engineers when things go wrong.
+
+# Trained model , Prediction Service, Performance monitoring
+  - The output of model validation is a trained model that can be pushed to the model registry.
+  - The machine learning model registry is a centralized tracking system that stores linage, versioning, and related metadata for published machine learning models.A registry may capture governance data required for auditing purposes, such as who trained and published a model, which datasets were used for training, the values of metrics measuring predictive performance, and when the model was deployed to production.
+  - deploy model for serving.
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/9771f7a6-76b4-48d9-949c-4e70b0809300)
+  - As a best practice, you need a way to actively monitor the quality of your model in production.
+  - The output of monitoring for these changes then feeds into the data analysis component, which can serve as a trigger to execute the pipeline or to execute a new experimental cycle.
+  - What can be monitored ?
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/07ce9156-5219-4dc9-adb7-86c93af62d73)
+
+
 
 
 
