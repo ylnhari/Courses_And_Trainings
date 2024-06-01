@@ -51,7 +51,7 @@
     types of serving, Static serving then computes the label ahead of time and serves by looking it up in the 
     table.
     ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/18ff35e5-4f46-47fe-9116-f22170ccf0cb)
-  - How to decide, may be based on the workload peakedness(How concentrated the distribution of the prediction workload is) and the cardinality of the data. A hybrid solution, with the most frequently requested predictions cached and the tail computed on demand.
+  - How to decide, may be based on the workload peakedness (How concentrated the distribution of the prediction workload is, i,e. concentration of prediction requests around a common set of inputs or outputs within a given dataset.) and the cardinality of the data. A hybrid solution, with the most frequently requested predictions cached and the tail computed on demand.
     ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/29f0603a-ef42-4f33-93ef-fecd61cbd3f1)
     ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/a940bcdd-39a6-4da0-8872-c2ca624ea2e0)
 
