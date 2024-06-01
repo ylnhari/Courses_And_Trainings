@@ -46,6 +46,18 @@
     ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/18a83906-f347-4800-ac32-b27e9e401191)
     ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/4052e306-5eff-42cb-a926-ad751ae427a2)
 
+# Serving design decisions
+  - In designing our serving architecture, one of our goals is to minimize average latency. So we have two     
+    types of serving, Static serving then computes the label ahead of time and serves by looking it up in the 
+    table.
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/18ff35e5-4f46-47fe-9116-f22170ccf0cb)
+  - How to decide, may be based on the workload peakedness and the cardinality of the input data. A hybrid solution, with the most frequently requested predictions cached and the tail computed on demand.
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/29f0603a-ef42-4f33-93ef-fecd61cbd3f1)
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/a940bcdd-39a6-4da0-8872-c2ca624ea2e0)
+
+
+
+
 
 
 
