@@ -34,13 +34,21 @@
     ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/07ce9156-5219-4dc9-adb7-86c93af62d73)
 
 # Training design decisions
-  - Types of Training: If the relationship you're trying to model is constant, like physics, a statically trained model may be sufficient.If, in contrast, the relationship you're trying to model is one that changes, like fashion, the dynamically trained model might be more appropriate.
+  - Types of Training: If the relationship you're trying to model is constant, like physics, a statically trained model may be sufficient.If, in contrast, the relationship 
+    you're trying to model one that changes, like fashion, the dynamically trained model might be more appropriate.
   - Part of the reason the dynamic is harder to build and test is that new data may have all sorts of bugs in it.
   - Engineering might also be harder because we need more monitoring, model rollback, and data quarantine capabilities.
-02:04
-Let's explore some use cases and think about which sort of training style would be most appropriate.
-  ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/ac829e35-c0f2-4cc3-9c1a-333595182806)
-  ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/0800a8c6-589f-4fc5-a8e3-39f96b11edc3)
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/ac829e35-c0f2-4cc3-9c1a-333595182806)
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/0800a8c6-589f-4fc5-a8e3-39f96b11edc3)
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/2352ff3d-dea1-4831-a100-b0bc1fc9f539)
+  - Sample architectures of dynamic training
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/2be775db-ea0c-48d9-b6fb-1ae186f689ba)
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/18a83906-f347-4800-ac32-b27e9e401191)
+    ![image](https://github.com/ylnhari/Courses_And_Trainings/assets/45874226/4052e306-5eff-42cb-a926-ad751ae427a2)
+
+
+
+
 
 
 
