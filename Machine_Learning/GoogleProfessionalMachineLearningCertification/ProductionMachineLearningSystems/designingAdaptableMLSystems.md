@@ -19,7 +19,7 @@
   - Concept drift, or change in  probability of Y given X, is a shift in the actual relationship between the model inputs and the output. An example of concept drift is when macroeconomic factors make lending riskier, and there is a higher standard  to be eligible for a loan.In this case, an income level that was earlier considered creditworthy is no longer creditworthy.
   - Prediction drift, or change in the predicted value of Y given X, is a shift in the model’s predictions. For example, a larger proportion of credit-worthy applications when your product was launched in a more affluent area.Your model still holds, but your business may be  unprepared for this scenario.
   - Label drift or change in the predicted value of Y as your target variable is a shift in the model’s  output or label distribution.
-  - Concept drift can occur due to shifts in the feature space and/or the decision boundary, so we need to be aware of these during production.If the data is changing, or if the relationship between the features and the label is changing, this is going to cause issues with our model.
+  - Concept drift can occur due to shifts in the feature space and/or the decision boundary, so we need to be aware of these during production. If the data changes or the relationship between the features and the label changes, this will cause issues with our model.
 ![image](https://github.com/user-attachments/assets/01e3e7e5-e82e-4900-894c-14d2b4a8b636)
 ![image](https://github.com/user-attachments/assets/7e82f6da-cf7b-4c86-b673-6c6b84990239)
 ![image](https://github.com/user-attachments/assets/ebfcb57c-d9b2-49d2-90d8-7a486585c95a)
@@ -31,6 +31,13 @@
 ![image](https://github.com/user-attachments/assets/820942a5-3b5f-454b-bd30-35105337134a)
 ![image](https://github.com/user-attachments/assets/e9924d4c-c6db-453e-b3c4-2d411fc8d83a)
 ![image](https://github.com/user-attachments/assets/2777d0e3-0187-405b-927d-6d9d1e9c42df)
+
+# Tensorflow data validation 
+![image](https://github.com/user-attachments/assets/3d566a91-e366-463d-bbd7-9effd1145449)
+![image](https://github.com/user-attachments/assets/39313f50-af3f-4b0d-8f36-da6ff69cd6c5)
+![image](https://github.com/user-attachments/assets/830c21b8-4a3c-4a14-83c9-7abd7a6f02df)
+
+
 
 
 
