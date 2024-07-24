@@ -37,6 +37,16 @@
 ![image](https://github.com/user-attachments/assets/39313f50-af3f-4b0d-8f36-da6ff69cd6c5)
 ![image](https://github.com/user-attachments/assets/830c21b8-4a3c-4a14-83c9-7abd7a6f02df)
 
+# Mitigating training/serving skew
+- sometimes skew may arise which is not related to data
+  (ex:- different environment - dev and prod, code with bugs in one and not in other, code
+  with one version in one library and not in other etc.) 
+![image](https://github.com/user-attachments/assets/0afdea21-69cb-418c-aed4-547165cdf74c)
+
+# Diognising production model.
+![image](https://github.com/user-attachments/assets/5cf44fc6-de93-44f2-9b94-a793b86b8ff2)
+
+
 
 
 
