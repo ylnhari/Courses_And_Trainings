@@ -27,6 +27,10 @@
 
 # ML Lifecycle
 ![image](https://github.com/user-attachments/assets/10bdb839-2518-467e-a3d0-42a2298edf51)
+<img width="1177" alt="image" src="https://github.com/user-attachments/assets/3fa5e08a-120b-4c14-a271-5847bf4b1b5d">
+
+
+
 
 
 
