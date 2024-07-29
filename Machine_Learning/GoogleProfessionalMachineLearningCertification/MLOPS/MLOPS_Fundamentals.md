@@ -29,6 +29,30 @@
 ![image](https://github.com/user-attachments/assets/10bdb839-2518-467e-a3d0-42a2298edf51)
 <img width="1177" alt="image" src="https://github.com/user-attachments/assets/3fa5e08a-120b-4c14-a271-5847bf4b1b5d">
 
+# MLOPS with vertex AI
+## Manage and Govern
+![image]("https://github.com/user-attachments/assets/0e354a21-c174-46cc-94eb-88325c291447")
+
+## Orhestrate
+<img width="1191" alt="image" src="https://github.com/user-attachments/assets/423e79e1-3e97-4b85-a11b-76c0cc167769">
+
+## Understand model
+<img width="549" alt="image" src="https://github.com/user-attachments/assets/cbb9b1a3-fa5c-4491-be3c-f51bfa1cb1a7">
+
+## Monitor Model
+<img width="628" alt="image" src="https://github.com/user-attachments/assets/fa6dc667-4f7a-4821-abba-64706bd98557">
+
+## Track experiments
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/2d406f20-7d0e-4936-ae9d-fa8d78a88577">
+
+## Tracl with tensorboard
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/c47e3250-6fcf-4137-a859-00ad34ef0ac7">
+
+## Vertex AI Overview
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/a0908405-7e0b-48ad-8bd7-fce19fc8049c">
+
+
+
 
 
 
