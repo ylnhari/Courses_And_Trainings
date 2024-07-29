@@ -1,4 +1,4 @@
-# ML practitioners
+![image](https://github.com/user-attachments/assets/ac7fa24c-95b8-45b2-a1c8-28d2fa8da417)# ML practitioners
 ![image](https://github.com/user-attachments/assets/9ca7d9df-2350-48c8-b027-9abd64cb67df)
 
 # Pain points
@@ -50,6 +50,13 @@
 
 ## Vertex AI Overview
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/a0908405-7e0b-48ad-8bd7-fce19fc8049c">
+
+# Vertex AI MLOPS Features
+## Feature store
+![image](https://github.com/user-attachments/assets/27699cf5-4d91-4fad-927c-32c3e85f95a1)
+
+
+
 
 
 
