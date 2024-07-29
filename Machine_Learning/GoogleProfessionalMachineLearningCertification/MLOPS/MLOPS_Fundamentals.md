@@ -21,6 +21,16 @@
 ![image](https://github.com/user-attachments/assets/a5e362ce-6673-405d-993b-1d67a947d919)
 ![image](https://github.com/user-attachments/assets/373b9401-9dc7-49d1-8e18-d6d4f9bb5b93)
 
+# Ml Engineering
+
+![image](https://github.com/user-attachments/assets/a71e8486-4903-4187-b3b4-7d7acef3be2c)
+
+# ML Lifecycle
+![image](https://github.com/user-attachments/assets/10bdb839-2518-467e-a3d0-42a2298edf51)
+
+
+
+
 
 
 
