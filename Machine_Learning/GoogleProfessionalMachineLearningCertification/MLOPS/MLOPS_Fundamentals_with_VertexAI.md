@@ -55,6 +55,10 @@
 ## Feature store
 ![image](https://github.com/user-attachments/assets/27699cf5-4d91-4fad-927c-32c3e85f95a1)
 
+### Data model of feature store (time series based)
+![image](https://github.com/user-attachments/assets/660f9009-c4bc-4ca8-9fdf-cf24f46b46f5)
+
+
 
 
 
