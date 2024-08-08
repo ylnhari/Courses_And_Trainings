@@ -31,7 +31,8 @@
 
 # MLOPS with vertex AI
 ## Manage and Govern
-![image]("https://github.com/user-attachments/assets/0e354a21-c174-46cc-94eb-88325c291447")
+<img width="1182" alt="image" src="https://github.com/user-attachments/assets/e322fd07-4fd8-4821-b78a-898e8e789c86">
+
 
 ## Orhestrate
 <img width="1191" alt="image" src="https://github.com/user-attachments/assets/423e79e1-3e97-4b85-a11b-76c0cc167769">
