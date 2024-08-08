@@ -1,5 +1,4 @@
 # ML practitioners
-![image](https://github.com/user-attachments/assets/ac7fa24c-95b8-45b2-a1c8-28d2fa8da417)
 ![image](https://github.com/user-attachments/assets/9ca7d9df-2350-48c8-b027-9abd64cb67df)
 
 # Pain points
