@@ -20,7 +20,7 @@ Think of it like learning to ride a bike.  You don't learn by someone giving you
 Every machine learning system involves these key components:
 - Data: In the context of machine learning, data is the raw material that fuels the learning process. It's the information that algorithms use to identify patterns, make predictions, and generate insights. Data can take various forms, from structured data like numbers and tables to unstructured data like text, images, and audio. Think of data as the fuel that powers a machine learning model. Just like a car needs fuel to run, a machine learning model needs data to learn and make predictions. The quality and quantity of the data directly impact the performance of the model.ex:- Imagine you want to teach a child to recognize different animals. You would show them pictures of cats, dogs, birds, and other animals, explaining what each animal is. These pictures would be the "data" in this scenario. The child would then use this data to learn and identify new animals they encounter.
   
-- Algorithm: The set of rules and techniques that the machine uses to learn from the data. There are many different algorithms, each suited to different types of problems.
+- Algorithm: An algorithm is essentially a set of well-defined instructions or rules that a computer follows to solve a problem. In the context of machine learning, algorithms are the techniques that allow the computer to learn patterns, make predictions, and extract insights from data.  Think of them as the "recipes" that the machine uses to "cook" up a model. There are many different algorithms, each suited to different types of problems.
  
 - Model: The output of the learning process. The model represents the patterns the machine has learned from the data. It's what we use to make predictions on new data.
 
@@ -61,6 +61,28 @@ There are three main types of unsupervised learning:
 - Dimensionality Reduction: Reduces the number of features in a dataset. Example: Simplifying complex data for easier analysis.
 ![image](https://github.com/user-attachments/assets/30b994e5-aebf-4958-a564-fa86ac352674)
 
+### Another type of ML -> Reinforcement Learning - Learning by Doing
+Reinforcement learning is a different approach.  Imagine training a dog. You don't give it a label for every action, but you reward it for good behavior and correct it for bad behavior.  Reinforcement learning works similarly. RL is used in Self driving tech.
+![image](https://github.com/user-attachments/assets/352d4d75-2795-44f6-92f5-9c733e9cb8f0)
+
+#### The Learning Process
+The agent's goal is to learn a policy – a set of rules that tells it what action to take in each situation – to maximize its cumulative reward over time.  It learns through trial and error, exploring the environment and adjusting its policy based on the feedback it receives.
+
+Think of a computer playing a video game.  It tries different actions, and it gets a reward for reaching a higher score and a penalty for losing a life.  Through many trials, it learns which actions lead to the best outcome.
+
+#### Applications of Reinforcement Learning
+Reinforcement learning is used in various applications, including:
+Game playing (e.g., AlphaGo)
+Robotics (e.g., learning to walk)
+Control systems (e.g., optimizing energy usage)
+Recommendation systems (e.g., personalized recommendations)
+
+###
+Feature	Supervised Learning	Unsupervised Learning	Reinforcement Learning
+Data	Labeled	Unlabeled	Interaction with environment
+Goal	Predict/Classify	Find patterns/clusters	Maximize reward
+Feedback	Direct (labels)	Indirect (structure)	Rewards and penalties
+Analogy	Studying with a textbook	Exploring a new city	Training a pet
 ## Let's Test our understanding
 ### Scenario 1 - Customer Spending)
 You're asked to predict customer spending based on their purchase history.
