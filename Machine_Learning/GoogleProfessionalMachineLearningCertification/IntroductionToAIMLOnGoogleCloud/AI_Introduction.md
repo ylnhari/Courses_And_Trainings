@@ -13,7 +13,7 @@ AI is the broader field. It encompasses any technique that enables computers to 
 
 
 ### Machine learning
-Machine learning is a subset of AI.  It focuses on enabling computers to learn from data without explicit programming.  Instead of telling the computer exactly what to do step-by-step, we provide it with data, and it figures out the patterns and rules on its own.
+Machine learning is a subset of AI.  It focuses on enabling computers to learn from data without explicit programming.  Instead of telling the computer exactly what to do step-by-step, we provide it with data, and it figures out the patterns and rules on its own. Machine learning powers applications like predictive analytics, image and speech recognition, recommendation systems, and autonomous vehicles and many more.
 
 ![image](https://github.com/user-attachments/assets/958cb656-74eb-46ba-ab61-14be1f6dd748)
 
