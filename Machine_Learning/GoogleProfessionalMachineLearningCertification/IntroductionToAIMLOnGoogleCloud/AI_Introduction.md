@@ -53,7 +53,8 @@ Here's a summary of the key differences:
 The key takeaway: Supervised learning has "answers" (labels) provided, while unsupervised learning does not.
 
 ![image](https://github.com/user-attachments/assets/95fcd75c-bcc2-4bd5-b5f6-1d03e58cc5f7)
-
+![SupervisedML](<Supervised Learning.png>)
+![alt text](UnsupervisedLEarning.jpg)
 ### Types of Supervised Learning
 There are two main types of supervised learning:
 - Classification: Predicts a category. Example: Is this email spam or not spam? (Categorical variable)
