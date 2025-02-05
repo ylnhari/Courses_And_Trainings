@@ -50,7 +50,7 @@ scatter = scatter_ax.scatter(X[:, 0], X[:, 1], c=colors, edgecolors='k')
 # Initial decision boundary (a line)
 x_line = np.linspace(X[:, 0].min() - 2, X[:, 0].max() + 2, 100)
 initial_slope = 0.5
-initial_intercept = 0
+initial_intercept = 4.16
 line, = scatter_ax.plot(x_line, initial_slope * x_line + initial_intercept, color='red', label="Decision Boundary")
 
 # Create the slider axes
@@ -93,17 +93,17 @@ intercept_slider.on_changed(update)
 
 # Meaningful Feature Names and Context
 scatter_ax.set_xlabel('Feature 1: Willingness to Help Others (Score)')
-scatter_ax.set_ylabel('Feature 2: Level of Extroversion (Score)')
+scatter_ax.set_ylabel('Feature 2: Level of Social Interaction (Score)')
 scatter_ax.set_title('Categorizing People Based on Personality Traits')
 scatter_ax.legend()
 scatter_ax.grid(True)
 
 # Example Data for the Table (replace with your actual data)
 table_data = [
-    ["Person 1", X[0, 0].round(1), X[0, 1].round(1), "Type A" if y[0] == 0 else "Type B"],
-    ["Person 2", X[10, 0].round(1), X[10, 1].round(1), "Type B" if y[10] == 1 else "Type A"],
-    ["Person 3", X[50, 0].round(1), X[50, 1].round(1), "Type A" if y[50] == 0 else "Type B"],
-    ["Person 4", X[100, 0].round(1), X[100, 1].round(1), "Type B" if y[100] == 1 else "Type A"],
+    ["Person 1", X[250, 0].round(1), X[250, 1].round(1), "Introvert" if y[250] == 0 else "Extrovert"],
+    ["Person 2", X[10, 0].round(1), X[10, 1].round(1), "Extrovert" if y[10] == 1 else "Introvert"],
+    ["Person 3", X[350, 0].round(1), X[350, 1].round(1), "Introvert" if y[350] == 0 else "Extrovert"],
+    ["Person 4", X[100, 0].round(1), X[100, 1].round(1), "Extrovert" if y[100] == 1 else "Introvert"],
 
 ]
 
